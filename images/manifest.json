@@ -1,0 +1,354 @@
+{
+  "home/home-hero-1": {
+    "dest": "home/home-hero-1",
+    "originalWidth": 2520,
+    "originalHeight": 1138,
+    "aspect": 0.4515873015873016,
+    "widths": [
+      600,
+      1200,
+      1800
+    ]
+  },
+  "home/home-hero-2": {
+    "dest": "home/home-hero-2",
+    "originalWidth": 2520,
+    "originalHeight": 1138,
+    "aspect": 0.4515873015873016,
+    "widths": [
+      600,
+      1200,
+      1800
+    ]
+  },
+  "home/home-banner-bricks": {
+    "dest": "home/home-banner-bricks",
+    "originalWidth": 750,
+    "originalHeight": 750,
+    "aspect": 1,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/refractory-bricks-tiles-blocks-1": {
+    "dest": "products/refractory-bricks-tiles-blocks-1",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/refractory-bricks-tiles-blocks-2": {
+    "dest": "products/refractory-bricks-tiles-blocks-2",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/refractory-bricks-tiles-blocks-3": {
+    "dest": "products/refractory-bricks-tiles-blocks-3",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/refractory-bricks-tiles-blocks-4": {
+    "dest": "products/refractory-bricks-tiles-blocks-4",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/refractory-bricks-tiles-blocks-diagram-1": {
+    "dest": "products/refractory-bricks-tiles-blocks-diagram-1",
+    "originalWidth": 1040,
+    "originalHeight": 808,
+    "aspect": 0.7769230769230769,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/refractory-bricks-tiles-blocks-diagram-2": {
+    "dest": "products/refractory-bricks-tiles-blocks-diagram-2",
+    "originalWidth": 600,
+    "originalHeight": 600,
+    "aspect": 1,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/fire-bricks-cladding-landscaping-1": {
+    "dest": "products/fire-bricks-cladding-landscaping-1",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/wire-cut-exposed-bricks-1": {
+    "dest": "products/wire-cut-exposed-bricks-1",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/wire-cut-exposed-bricks-2": {
+    "dest": "products/wire-cut-exposed-bricks-2",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/acid-proof-bricks-cement-mortar-1": {
+    "dest": "products/acid-proof-bricks-cement-mortar-1",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/refractory-castables-cements-jr-set-50": {
+    "dest": "products/refractory-castables-cements-jr-set-50",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/refractory-castables-cements-jr-crete-super": {
+    "dest": "products/refractory-castables-cements-jr-crete-super",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/refractory-castables-cements-jr-heat-a-k-c": {
+    "dest": "products/refractory-castables-cements-jr-heat-a-k-c",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/refractory-castables-cements-mortar-cements": {
+    "dest": "products/refractory-castables-cements-mortar-cements",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/insulating-bricks-1": {
+    "dest": "products/insulating-bricks-1",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/insulating-bricks-2": {
+    "dest": "products/insulating-bricks-2",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/insulating-castable-mortars-1": {
+    "dest": "products/insulating-castable-mortars-1",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/insulating-castable-mortars-2": {
+    "dest": "products/insulating-castable-mortars-2",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/cer-wool-ceramic-fiber-1": {
+    "dest": "products/cer-wool-ceramic-fiber-1",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/high-temperature-fabric-1": {
+    "dest": "products/high-temperature-fabric-1",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "products/calcium-silicate-block-1": {
+    "dest": "products/calcium-silicate-block-1",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "gallery/gallery-01": {
+    "dest": "gallery/gallery-01",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "gallery/gallery-02": {
+    "dest": "gallery/gallery-02",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "gallery/gallery-03": {
+    "dest": "gallery/gallery-03",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "gallery/gallery-04": {
+    "dest": "gallery/gallery-04",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "gallery/gallery-05": {
+    "dest": "gallery/gallery-05",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "gallery/gallery-06": {
+    "dest": "gallery/gallery-06",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "gallery/gallery-07": {
+    "dest": "gallery/gallery-07",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "gallery/gallery-08": {
+    "dest": "gallery/gallery-08",
+    "originalWidth": 975,
+    "originalHeight": 675,
+    "aspect": 0.6923076923076923,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  }
+}
