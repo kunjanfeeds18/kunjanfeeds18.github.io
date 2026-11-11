@@ -470,6 +470,10 @@ table.spec-table tbody th { font-weight: 600; background: transparent; }
 /* === Contact === */
 .contact-actions { display: grid; gap: var(--space-2); grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); margin-block: var(--space-4); }
 .contact-actions .btn { justify-content: center; padding-block: 1.1rem; font-size: 1rem; }
+.email-copy { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.75rem; margin: calc(-1 * var(--space-2)) 0 var(--space-4); max-width: none; }
+.email-copy__address { user-select: all; color: var(--color-ink); }
+.email-copy__btn { padding: 0.4rem 0.9rem; font-size: var(--font-small); }
+.email-copy__status { color: var(--color-brand-dark); font-weight: 600; font-size: var(--font-small); }
 .address-block { background: var(--color-surface-alt); border: 1px solid var(--color-border); border-radius: var(--radius-lg); padding: var(--space-4); }
 .address-block address { font-style: normal; margin-bottom: var(--space-2); }
 .contact-map { display: block; width: 100%; height: 400px; margin-top: var(--space-3); border: 1px solid var(--color-border); border-radius: var(--radius); }

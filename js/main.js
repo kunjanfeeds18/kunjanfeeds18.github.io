@@ -89,6 +89,20 @@
     });
   });
 
+  /* --- Copy-to-clipboard buttons (shown only where the browser supports it) --- */
+  if (navigator.clipboard && window.isSecureContext) {
+    document.querySelectorAll("[data-copy]").forEach(function (btn) {
+      var status = btn.parentElement.querySelector('[role="status"]');
+      btn.hidden = false;
+      btn.addEventListener("click", function () {
+        navigator.clipboard.writeText(btn.getAttribute("data-copy")).then(
+          function () { if (status) status.textContent = "Copied!"; },
+          function () { if (status) status.textContent = "Couldn't copy. Please select the address and copy it."; }
+        );
+      });
+    });
+  }
+
   /* --- Service worker registration (progressive, non-blocking) --- */
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", function () {

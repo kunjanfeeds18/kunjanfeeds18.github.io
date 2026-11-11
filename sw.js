@@ -1,10 +1,10 @@
 /* J R Refractory — minimal offline service worker.
    Precaches the app shell; runtime-caches everything else (cache-first, falls back to network). */
-const CACHE = "jrr-v10"; // bump together with ASSET_VERSION in build/site-config.mjs
+const CACHE = "jrr-v11"; // bump together with ASSET_VERSION in build/site-config.mjs
 const PRECACHE = [
   "/",
-  "/css/styles.min.css?v=9",
-  "/js/main.min.js?v=9",
+  "/css/styles.min.css?v=10",
+  "/js/main.min.js?v=10",
   "/fonts/inter-400.woff2",
   "/fonts/montserrat-700.woff2",
   "/images/favicon-192.png",
